@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/dashboard": "pages/dashboard.js",
+  "/policy": "pages/policy.js",
+  "/api/policy": "pages/api/policy.js",
+  "/api/getToken": "pages/api/getToken.js",
+  "/api/attribute": "pages/api/attribute.js",
+  "/api/policy/[id]": "pages/api/policy/[id].js",
+  "/resource": "pages/resource.js",
+  "/api/resource": "pages/api/resource.js",
+  "/user": "pages/user.js",
+  "/api/user": "pages/api/user.js"
+}
